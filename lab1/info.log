@@ -1,0 +1,81 @@
+17:27:55,253 INFO    : CentOS Linux is the highest priority installclass, using it
+17:27:55,262 INFO    : created new libuser.conf at /tmp/libuser.QdjsYk with instPath="/mnt/sysimage"
+17:27:55,265 INFO    : anaconda called with cmdline = ['/usr/sbin/anaconda', '--liveinst', '--method=livecd:///dev/mapper/live-osimg-min']
+17:27:55,265 INFO    : Display mode = g
+17:27:55,266 INFO    : Default encoding = ascii 
+17:27:57,889 INFO    : Network.update(): /etc/sysconfig/network-scripts/ifcfg-eth0 file not found
+17:27:57,934 INFO    : Network.update(): /etc/sysconfig/network-scripts/ifcfg-eth0 file not found
+17:27:57,938 INFO    : Detected 512M of memory
+17:27:57,939 INFO    : Swap attempt of 512M to 1024M
+17:27:58,145 INFO    : moving (1) to step welcome
+17:28:07,663 INFO    : leaving (1) step welcome
+17:28:07,667 INFO    : moving (1) to step language
+17:28:20,615 INFO    : leaving (1) step language
+17:28:20,618 INFO    : moving (1) to step keyboard
+17:28:26,163 INFO    : leaving (1) step keyboard
+17:28:26,165 INFO    : moving (1) to step storageinit
+17:28:31,447 INFO    : No FCoE EDD info found: No FCoE boot disk information is found in EDD!
+17:28:31,450 INFO    : no /etc/zfcp.conf; not configuring zfcp
+17:28:56,024 INFO    : leaving (1) step storageinit
+17:28:56,025 INFO    : moving (1) to step network
+17:29:01,289 INFO    : leaving (1) step network
+17:29:01,290 INFO    : moving (1) to step timezone
+17:29:06,780 INFO    : leaving (1) step timezone
+17:29:06,789 INFO    : moving (1) to step accounts
+17:30:01,237 INFO    : leaving (1) step accounts
+17:30:01,241 INFO    : moving (1) to step setuptime
+21:30:02,015 INFO    : leaving (1) step setuptime
+21:30:02,019 INFO    : moving (1) to step parttype
+21:30:48,789 INFO    : leaving (1) step parttype
+21:30:48,790 INFO    : moving (1) to step autopartitionexecute
+21:30:49,576 INFO    : leaving (1) step autopartitionexecute
+21:30:49,580 INFO    : moving (1) to step storagedone
+21:31:02,537 INFO    : leaving (1) step storagedone
+21:31:02,541 INFO    : moving (1) to step enablefilesystems
+21:31:47,171 INFO    : failed to get default SELinux context for /proc: [Errno 2] No such file or directory
+21:31:47,241 INFO    : failed to get default SELinux context for /proc: [Errno 2] No such file or directory
+21:31:47,348 INFO    : leaving (1) step enablefilesystems
+21:31:47,350 INFO    : moving (1) to step bootloadersetup
+21:31:47,538 INFO    : leaving (1) step bootloadersetup
+21:31:47,539 INFO    : moving (1) to step reposetup
+21:31:47,654 INFO    : leaving (1) step reposetup
+21:31:47,658 INFO    : moving (1) to step basepkgsel
+21:31:47,659 INFO    : leaving (1) step basepkgsel
+21:31:47,660 INFO    : moving (1) to step postselection
+21:31:47,661 INFO    : leaving (1) step postselection
+21:31:47,662 INFO    : moving (1) to step install
+21:31:47,695 INFO    : leaving (1) step install
+21:31:47,696 INFO    : moving (1) to step preinstallconfig
+21:31:54,083 INFO    : leaving (1) step preinstallconfig
+21:31:54,108 INFO    : moving (1) to step installpackages
+21:31:54,110 INFO    : Preparing to install packages
+21:42:10,101 INFO    : leaving (1) step installpackages
+21:42:10,119 INFO    : moving (1) to step postinstallconfig
+21:42:10,120 INFO    : doing post-install fs mangling
+21:42:10,257 INFO    : going to do resize
+21:42:20,095 INFO    : failed to get default SELinux context for /proc: [Errno 2] No such file or directory
+21:42:20,179 INFO    : failed to get default SELinux context for /proc: [Errno 2] No such file or directory
+21:42:21,323 INFO    : reset the rootdev (/devices/virtual/block/dm-2) to have a uuid of b8439647-fa93-4724-bde7-1c42330abe1f
+21:42:24,285 INFO    : copy_to_sysimage: source '/etc/multipath/wwids' does not exist.
+21:42:24,289 INFO    : copy_to_sysimage: source '/etc/multipath/bindings' does not exist.
+21:42:25,436 INFO    : recreating initrd for 2.6.32-220.el6.i686
+21:48:42,959 INFO    : leaving (1) step postinstallconfig
+21:48:42,988 INFO    : moving (1) to step writeconfig
+21:48:42,989 INFO    : Writing main configuration
+21:48:48,922 INFO    : removing libuser.conf at /tmp/libuser.QdjsYk
+21:48:48,922 INFO    : created new libuser.conf at /tmp/libuser.QdjsYk with instPath="/mnt/sysimage"
+21:48:49,382 INFO    : leaving (1) step writeconfig
+21:48:49,384 INFO    : moving (1) to step firstboot
+21:48:49,386 INFO    : leaving (1) step firstboot
+21:48:49,388 INFO    : moving (1) to step instbootloader
+21:48:53,943 INFO    : leaving (1) step instbootloader
+21:48:53,946 INFO    : moving (1) to step reipl
+21:48:53,952 INFO    : leaving (1) step reipl
+21:48:53,958 INFO    : moving (1) to step writeksconfig
+21:48:53,962 INFO    : Writing autokickstart file
+21:48:54,789 INFO    : leaving (1) step writeksconfig
+21:48:54,789 INFO    : moving (1) to step setfilecon
+21:48:54,791 INFO    : setting SELinux contexts for anaconda created files
+21:49:34,258 INFO    : leaving (1) step setfilecon
+21:49:34,259 INFO    : moving (1) to step copylogs
+21:49:34,260 INFO    : Copying anaconda logs

@@ -1,0 +1,244 @@
+[    32.095] (Warning:) vmwlegacy(0): Unable to estimate virtual size
+[    31.583] (Warning:) Warning, couldn't open module vmwgfx
+[    31.645] (Warning:) Falling back to old probe method for vesa
+[    31.645] (Warning:) Falling back to old probe method for fbdev
+[    31.589] (Information:) vmwlegacy: driver for VMware SVGA: vmware0405, vmware0710
+[    32.104] (Information:) vmwlegacy(0): vgaHWGetIOBase: hwp->IOBase is 0x03d0, hwp->PIOOffset is 0x0000
+[    32.095] (Information:) vmwlegacy(0): Not using default mode "848x480" (hsync out of range)
+[    32.095] (Information:) vmwlegacy(0): Not using default mode "800x600" (vrefresh out of range)
+[    32.095] (Information:) vmwlegacy(0): Not using default mode "800x600" (vrefresh out of range)
+[    32.095] (Information:) vmwlegacy(0): Not using default mode "800x600" (hsync out of range)
+[    32.095] (Information:) vmwlegacy(0): Not using default mode "800x600" (hsync out of range)
+[    32.095] (Information:) vmwlegacy(0): Not using default mode "720x400" (vrefresh out of range)
+[    32.095] (Information:) vmwlegacy(0): Not using default mode "640x480" (vrefresh out of range)
+[    32.095] (Information:) vmwlegacy(0): Not using default mode "640x480" (vrefresh out of range)
+[    32.095] (Information:) vmwlegacy(0): Not using default mode "640x480" (vrefresh out of range)
+[    32.095] (Information:) vmwlegacy(0): Not using default mode "640x400" (vrefresh out of range)
+[    32.095] (Information:) vmwlegacy(0): Not using default mode "640x350" (vrefresh out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "2560x1600" (width requires unsupported line pitch)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "2560x1600" (width requires unsupported line pitch)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "2560x1600" (width requires unsupported line pitch)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "2560x1600" (width requires unsupported line pitch)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "2560x1600" (width requires unsupported line pitch)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1920x1440" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1920x1440" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1920x1440" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1920x1200" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1920x1200" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1920x1200" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1920x1200" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1920x1200" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1856x1392" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1856x1392" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1856x1392" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1792x1344" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1792x1344" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1792x1344" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1680x1050" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1680x1050" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1680x1050" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1680x1050" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1680x1050" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1600x1200" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1600x1200" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1600x1200" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1600x1200" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1600x1200" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1600x1200" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1440x900" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1440x900" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1440x900" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1440x900" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1440x900" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1400x1050" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1400x1050" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1400x1050" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1400x1050" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1400x1050" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1360x768" (mode clock too high)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1360x768" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1280x960" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1280x960" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1280x960" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1280x800" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1280x800" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1280x800" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1280x800" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1280x800" (hsync out of range)
+[    32.095] (Information:) vmwlegacy(0): Not using default mode "1280x768" (monitor doesn't support reduced blanking)
+[    32.095] (Information:) vmwlegacy(0): Not using default mode "1280x768" (mode clock too high)
+[    32.095] (Information:) vmwlegacy(0): Not using default mode "1280x768" (hsync out of range)
+[    32.095] (Information:) vmwlegacy(0): Not using default mode "1280x768" (hsync out of range)
+[    32.095] (Information:) vmwlegacy(0): Not using default mode "1280x768" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1280x1024" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1280x1024" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1280x1024" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Not using default mode "1280x1024" (hsync out of range)
+[    32.095] (Information:) vmwlegacy(0): Not using default mode "1152x864" (hsync out of range)
+[    32.095] (Information:) vmwlegacy(0): Not using default mode "1024x768i" (bad mode clock/interlace/doublescan)
+[    32.095] (Information:) vmwlegacy(0): Not using default mode "1024x768" (hsync out of range)
+[    32.095] (Information:) vmwlegacy(0): Not using default mode "1024x768" (hsync out of range)
+[    32.095] (Information:) vmwlegacy(0): Not using default mode "1024x768" (hsync out of range)
+[    32.095] (Information:) vmwlegacy(0): Not using default mode "1024x768" (hsync out of range)
+[    32.096] (Information:) vmwlegacy(0): Modeline "800x600"x60.3   40.00  800 840 968 1056  600 601 605 628 +hsync +vsync (37.9 kHz)
+[    32.096] (Information:) vmwlegacy(0): Modeline "800x600"x56.2   36.00  800 824 896 1024  600 601 603 625 +hsync +vsync (35.2 kHz)
+[    32.096] (Information:) vmwlegacy(0): Modeline "640x480"x59.9   25.18  640 656 752 800  480 490 492 525 -hsync -vsync (31.5 kHz)
+[    32.096] (Information:) vmwlegacy(0): Modeline "1024x768"x60.0   65.00  1024 1048 1184 1344  768 771 777 806 -hsync -vsync (48.4 kHz)
+[    32.104] (Information:) vmwlegacy(0): Initialized VMWARE_CTRL extension version 0.2
+[    32.095] (Information:) vmwlegacy(0): Creating default Display subsection in Screen section
+[    32.095] (Information:) vmwlegacy(0): Clock range:   0.00 to 400000.00 MHz
+[    32.095] (Information:) vmwlegacy(0): <default monitor>: Using default vrefresh range of 50.00-70.00 Hz
+[    32.095] (Information:) vmwlegacy(0): <default monitor>: Using default maximum pixel clock of 65.00 MHz
+[    32.095] (Information:) vmwlegacy(0): <default monitor>: Using default hsync range of 31.50-48.00 kHz
+[    31.583] (Information:) vmware: Using vmwlegacy driver everything is fine.
+[    32.715] (Information:) config/hal: Adding input device Video Bus
+[    32.715] (Information:) config/hal: Adding input device Sleep Button
+[    32.725] (Information:) config/hal: Adding input device Power Button
+[    32.725] (Information:) config/hal: Adding input device Macintosh mouse button emulation
+[    32.675] (Information:) config/hal: Adding input device ImExPS/2 Generic Explorer Mouse
+[    32.680] (Information:) config/hal: Adding input device AT Translated Set 2 keyboard
+[    32.715] (Information:) XINPUT: Adding extended input device "Video Bus" (type: KEYBOARD)
+[    32.715] (Information:) XINPUT: Adding extended input device "Sleep Button" (type: KEYBOARD)
+[    32.725] (Information:) XINPUT: Adding extended input device "Power Button" (type: KEYBOARD)
+[    32.725] (Information:) XINPUT: Adding extended input device "Macintosh mouse button emulation" (type: MOUSE)
+[    32.679] (Information:) XINPUT: Adding extended input device "ImExPS/2 Generic Explorer Mouse" (type: MOUSE)
+[    32.680] (Information:) XINPUT: Adding extended input device "AT Translated Set 2 keyboard" (type: KEYBOARD)
+[    32.715] (Information:) Video Bus: Configuring as keyboard
+[   159.484] (Information:) Video Bus: Close
+[    31.589] (Information:) VESA: driver for VESA chipsets: vesa
+[    32.715] (Information:) Using input driver 'evdev' for 'Video Bus'
+[    32.715] (Information:) Using input driver 'evdev' for 'Sleep Button'
+[    32.725] (Information:) Using input driver 'evdev' for 'Power Button'
+[    32.725] (Information:) Using input driver 'evdev' for 'Macintosh mouse button emulation'
+[    32.679] (Information:) Using input driver 'evdev' for 'ImExPS/2 Generic Explorer Mouse'
+[    32.680] (Information:) Using input driver 'evdev' for 'AT Translated Set 2 keyboard'
+[    31.583] (Information:) Unloading vmwgfx
+[    32.104] (Information:) Unloading vesa
+[    32.104] (Information:) Unloading fbdevhw
+[    32.104] (Information:) Unloading fbdev
+[   159.484] (Information:) Unloading evdev
+[   159.484] (Information:) Unloading evdev
+[   159.484] (Information:) Unloading evdev
+[   159.484] (Information:) Unloading evdev
+[   159.484] (Information:) Unloading evdev
+[   159.484] (Information:) Unloading evdev
+[    31.583] (Information:) UnloadModule: "vmwgfx"
+[    32.104] (Information:) UnloadModule: "vesa"
+[    32.104] (Information:) UnloadModule: "fbdevhw"
+[    32.104] (Information:) UnloadModule: "fbdev"
+[   159.484] (Information:) UnloadModule: "evdev"
+[   159.484] (Information:) UnloadModule: "evdev"
+[   159.484] (Information:) UnloadModule: "evdev"
+[   159.484] (Information:) UnloadModule: "evdev"
+[   159.484] (Information:) UnloadModule: "evdev"
+[   159.484] (Information:) UnloadModule: "evdev"
+[    31.564] (Information:) The server relies on HAL to provide the list of input devices.
+[    32.715] (Information:) Sleep Button: Configuring as keyboard
+[   159.484] (Information:) Sleep Button: Close
+[    32.535] (Information:) SELinux: Disabled by boolean
+[    32.725] (Information:) Power Button: Configuring as keyboard
+[   159.484] (Information:) Power Button: Close
+[    31.586] (Information:) Module vmwlegacy: vendor="X.Org Foundation"
+[    31.582] (Information:) Module vmware: vendor="X.Org Foundation"
+[    31.674] (Information:) Module vgahw: vendor="X.Org Foundation"
+[    31.588] (Information:) Module vesa: vendor="X.Org Foundation"
+[    32.104] (Information:) Module shadowfb: vendor="X.Org Foundation"
+[    31.576] (Information:) Module record: vendor="X.Org Foundation"
+[    31.575] (Information:) Module glx: vendor="X.Org Foundation"
+[    31.645] (Information:) Module fbdevhw: vendor="X.Org Foundation"
+[    31.589] (Information:) Module fbdev: vendor="X.Org Foundation"
+[    32.102] (Information:) Module fb: vendor="X.Org Foundation"
+[    31.569] (Information:) Module extmod: vendor="X.Org Foundation"
+[    32.679] (Information:) Module evdev: vendor="X.Org Foundation"
+[    31.579] (Information:) Module dri: vendor="X.Org Foundation"
+[    31.581] (Information:) Module dri2: vendor="X.Org Foundation"
+[    31.569] (Information:) Module dbe: vendor="X.Org Foundation"
+[    31.556] (Information:) Module ABI versions:
+[    32.104] (Information:) Module "ramdac" already built-in
+[    32.725] (Information:) Macintosh mouse button emulation: initialized for relative axes.
+[    32.725] (Information:) Macintosh mouse button emulation: Configuring as mouse
+[   159.484] (Information:) Macintosh mouse button emulation: Close
+[    31.665] (Information:) Loading sub module "vgahw"
+[    32.102] (Information:) Loading sub module "shadowfb"
+[    32.104] (Information:) Loading sub module "ramdac"
+[    31.645] (Information:) Loading sub module "fbdevhw"
+[    32.096] (Information:) Loading sub module "fb"
+[    31.569] (Information:) Loading extension XVideo-MotionCompensation
+[    31.569] (Information:) Loading extension XVideo
+[    31.569] (Information:) Loading extension XFree86-VidModeExtension
+[    31.579] (Information:) Loading extension XFree86-DRI
+[    31.569] (Information:) Loading extension XFree86-DGA
+[    31.569] (Information:) Loading extension X-Resource
+[    31.569] (Information:) Loading extension SELinux
+[    31.576] (Information:) Loading extension RECORD
+[    31.569] (Information:) Loading extension MIT-SCREEN-SAVER
+[    31.575] (Information:) Loading extension GLX
+[    31.581] (Information:) Loading extension DRI2
+[    31.569] (Information:) Loading extension DPMS
+[    31.569] (Information:) Loading extension DOUBLE-BUFFER
+[    31.665] (Information:) Loading /usr/lib/xorg/modules/libvgahw.so
+[    32.102] (Information:) Loading /usr/lib/xorg/modules/libshadowfb.so
+[    31.645] (Information:) Loading /usr/lib/xorg/modules/libfbdevhw.so
+[    32.096] (Information:) Loading /usr/lib/xorg/modules/libfb.so
+[    32.725] (Information:) Loading /usr/lib/xorg/modules/input/evdev_drv.so
+[    32.725] (Information:) Loading /usr/lib/xorg/modules/input/evdev_drv.so
+[    32.715] (Information:) Loading /usr/lib/xorg/modules/input/evdev_drv.so
+[    32.715] (Information:) Loading /usr/lib/xorg/modules/input/evdev_drv.so
+[    32.680] (Information:) Loading /usr/lib/xorg/modules/input/evdev_drv.so
+[    32.679] (Information:) Loading /usr/lib/xorg/modules/input/evdev_drv.so
+[    32.675] (Information:) Loading /usr/lib/xorg/modules/input/evdev_drv.so
+[    31.575] (Information:) Loading /usr/lib/xorg/modules/extensions/librecord.so
+[    31.569] (Information:) Loading /usr/lib/xorg/modules/extensions/libglx.so
+[    31.567] (Information:) Loading /usr/lib/xorg/modules/extensions/libextmod.so
+[    31.580] (Information:) Loading /usr/lib/xorg/modules/extensions/libdri2.so
+[    31.576] (Information:) Loading /usr/lib/xorg/modules/extensions/libdri.so
+[    31.569] (Information:) Loading /usr/lib/xorg/modules/extensions/libdbe.so
+[    31.645] (Information:) Loading /usr/lib/xorg/modules/drivers/vmwlegacy_drv.so
+[    31.583] (Information:) Loading /usr/lib/xorg/modules/drivers/vmwlegacy_drv.so
+[    31.581] (Information:) Loading /usr/lib/xorg/modules/drivers/vmware_drv.so
+[    31.586] (Information:) Loading /usr/lib/xorg/modules/drivers/vesa_drv.so
+[    31.588] (Information:) Loading /usr/lib/xorg/modules/drivers/fbdev_drv.so
+[    31.556] (Information:) Loader magic: 0x822c540
+[    31.583] (Information:) LoadModule: "vmwlegacy"
+[    31.582] (Information:) LoadModule: "vmwgfx"
+[    31.581] (Information:) LoadModule: "vmware"
+[    31.665] (Information:) LoadModule: "vgahw"
+[    31.586] (Information:) LoadModule: "vesa"
+[    32.102] (Information:) LoadModule: "shadowfb"
+[    31.575] (Information:) LoadModule: "record"
+[    32.104] (Information:) LoadModule: "ramdac"
+[    31.569] (Information:) LoadModule: "glx"
+[    31.645] (Information:) LoadModule: "fbdevhw"
+[    31.588] (Information:) LoadModule: "fbdev"
+[    32.096] (Information:) LoadModule: "fb"
+[    31.564] (Information:) LoadModule: "extmod"
+[    32.675] (Information:) LoadModule: "evdev"
+[    31.579] (Information:) LoadModule: "dri2"
+[    31.576] (Information:) LoadModule: "dri"
+[    31.569] (Information:) LoadModule: "dbe"
+[    32.535] (Information:) Initializing built-in extension XTEST
+[    32.535] (Information:) Initializing built-in extension XKEYBOARD
+[    32.535] (Information:) Initializing built-in extension XInputExtension
+[    32.535] (Information:) Initializing built-in extension XINERAMA
+[    32.535] (Information:) Initializing built-in extension XFIXES
+[    32.535] (Information:) Initializing built-in extension XC-MISC
+[    32.535] (Information:) Initializing built-in extension SYNC
+[    32.535] (Information:) Initializing built-in extension SHAPE
+[    32.535] (Information:) Initializing built-in extension RENDER
+[    32.535] (Information:) Initializing built-in extension RANDR
+[    32.535] (Information:) Initializing built-in extension MIT-SHM
+[    32.535] (Information:) Initializing built-in extension Generic Event Extension
+[    32.535] (Information:) Initializing built-in extension DAMAGE
+[    32.535] (Information:) Initializing built-in extension COMPOSITE
+[    32.535] (Information:) Initializing built-in extension BIG-REQUESTS
+[    32.679] (Information:) ImExPS/2 Generic Explorer Mouse: initialized for relative axes.
+[    32.679] (Information:) ImExPS/2 Generic Explorer Mouse: Configuring as mouse
+[   159.484] (Information:) ImExPS/2 Generic Explorer Mouse: Close
+[    32.679] (Information:) ImExPS/2 Generic Explorer Mouse: Adding scrollwheel support
+[    32.568] (Information:) GLX: Initialized DRISWRAST GL provider for screen 0
+[    31.589] (Information:) FBDEV: driver for framebuffer: fbdev
+[    32.680] (Information:) AT Translated Set 2 keyboard: Configuring as keyboard
+[   159.484] (Information:) AT Translated Set 2 keyboard: Close
+[    32.549] (Information:) AIGLX: Screen 0 is not DRI2 capable
+[    32.549] (Information:) AIGLX: Screen 0 is not DRI capable
+[    32.568] (Information:) AIGLX: Loaded and initialized /usr/lib/dri/swrast_dri.so

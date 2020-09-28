@@ -1,0 +1,16 @@
+#!/bin/bash
+
+echo "hi this menu press 1 to nano, dont press 2 no exit sorry, press 3 to links, press 4 to exit";
+
+read selected
+
+case $selected in
+   1) nano ;;
+   2) vi ;;
+   3) links ;;
+   4) exit 0;;
+   *) 
+	   echo "Sorry i dont know what you want retry again"; 
+	   ./script_3;;
+esac
+

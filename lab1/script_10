@@ -1,0 +1,4 @@
+#!/bin/bash
+
+man bash | sed -r 's/[[:space:]]+/\n/g' | sort | uniq -c | sort -nr |
+awk -F' ' '{if (length($2) > 3){print $2;}}' | head -n3
